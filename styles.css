@@ -38,6 +38,9 @@ form {
 .buttonContainer {
   padding-top: 25px;
 }
+.btn-color {
+  background-color: #fefd98;
+}
 .textArea {
   height: 140px;
   width: 180px;
@@ -47,4 +50,5 @@ form {
 }
 .dateArea {
   padding-top: 10px;
+  padding-left: 10px;
 }
